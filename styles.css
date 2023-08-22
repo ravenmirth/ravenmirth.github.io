@@ -9,6 +9,7 @@ body {
 
 ::selection {
     background-color: BlueMagenta;
+    linear-gradient(to bottom right, BlueMagenta, CornFlowerBlue);
 }
 
 a.hover {
