@@ -1,5 +1,5 @@
 body {
-  font-size: 12pt;
+  font-size: 12;
   font-family: "Source Han Serif", serif;
   font-color: DarkSlateGray;
   background-color: AliceBlue;
@@ -9,7 +9,6 @@ body {
 
 ::selection {
     background-color: BlueMagenta;
-    linear-gradient(to bottom right, BlueMagenta, CornFlowerBlue);
 }
 
 a.hover {
