@@ -8,7 +8,7 @@ body {
 }
 
 ::selection {
-    background-color: #9999FF;
+    background-color: SlateBlue;
 }
 
 a:hover {
