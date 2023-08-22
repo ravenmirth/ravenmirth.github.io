@@ -1,5 +1,5 @@
 body {
-  font-size: 12;
+  font-size: 12pt;
   font-family: "Source Han Serif", serif;
   font-color: DarkSlateGray;
   background-color: AliceBlue;
@@ -14,3 +14,4 @@ body {
 a.hover {
   font-color: LightSteelBlue;
 }
+
