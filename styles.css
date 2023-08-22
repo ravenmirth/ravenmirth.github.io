@@ -4,17 +4,13 @@ body {
   font-color: DarkSlateGray;
   background-color: AliceBlue;
   text-align: justify;
-  line-height:2;
+  line-height: 2;
 }
 
 ::selection {
-    background-color: CornflowerBlue;
-}
-
-a {
-  font-color:LightSteelBlue;
+    background-color: BlueMagenta;
 }
 
 a.hover {
-  font-color:BlueMagenta;
+  font-color: LightSteelBlue;
 }
