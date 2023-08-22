@@ -28,3 +28,7 @@
     url("../library/SourceHanSerifCN-SemiBold.otf") format("opentype");
     font-weight:600;
 }
+
+:lang(en), :lang(zh) {
+	font-family: "Source Han Serif", serif;
+}
