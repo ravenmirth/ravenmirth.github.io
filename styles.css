@@ -1,5 +1,5 @@
 body {
-  font-size: 12px;
+  font-size: 12pt;
   font-family: "Source Han Serif", serif;
   font-color: DarkSlateGray;
   background-color: AliceBlue;
@@ -8,7 +8,7 @@ body {
 }
 
 ::selection {
-    background-color: DarkSlateGray;
+    background-color: #9999FF;
 }
 
 a:hover {
@@ -16,6 +16,5 @@ a:hover {
 }
 
 div.corpse {
-  max-width: 700px;
-  text-align: center;
+  max-width: 700pt;
 }
