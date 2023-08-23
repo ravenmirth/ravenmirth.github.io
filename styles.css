@@ -5,6 +5,7 @@ body {
   background-color: AliceBlue;
   text-align: justify;
   line-height: 2;
+  font-weight: 300;
 }
 
 ::selection {
