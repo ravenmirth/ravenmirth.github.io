@@ -18,3 +18,9 @@ a:hover {
 div.corpse {
   max-width: 700pt;
 }
+
+div.header {
+  background-color: MidnightBlue;
+  padding: 30pt;
+  text-align: center;
+}
